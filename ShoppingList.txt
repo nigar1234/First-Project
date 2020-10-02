@@ -4,3 +4,5 @@ Carrot
 Potato
 Raddish
 Cabbage
+Cereal
+Tomato
