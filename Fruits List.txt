@@ -3,3 +3,4 @@ Fruits List
 Apple
 Orange
 Banana
+Strawberry
