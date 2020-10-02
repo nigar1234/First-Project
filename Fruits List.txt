@@ -4,3 +4,5 @@ Apple
 Orange
 Banana
 Strawberry
+Plum
+Watermelon
